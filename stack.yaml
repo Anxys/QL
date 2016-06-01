@@ -1,0 +1,11 @@
+flags: {}
+extra-package-dbs: []
+packages:
+- '.'
+extra-deps:
+- text-1.2.2.0
+- wx-0.92.2.0
+- wxc-0.92.2.0
+- wxcore-0.92.2.0
+- wxdirect-0.92.2.0
+resolver: lts-5.1
